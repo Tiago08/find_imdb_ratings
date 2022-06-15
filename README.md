@@ -15,10 +15,3 @@ These libraries can be installed easily by using the following command: pip inst
 -> Type the following command: python find_IMDb_rating.py <br>
 -> A csv file with rating will be created in the same directory as the python file. <br>
 
-### Screenshot/GIF showing the sample use of the script
-Folder :
-
-![Screenshot 2020-09-15 at 6 20 55 PM](https://user-images.githubusercontent.com/44445191/93214776-375f7280-f783-11ea-90a3-dcd29a84d7fc.png)
-
-CSV File:
-![Screenshot 2020-09-15 at 6 28 24 PM](https://user-images.githubusercontent.com/44445191/93214767-32022800-f783-11ea-893d-7f45240b6dc5.png)
